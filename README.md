@@ -11,7 +11,7 @@
   <!-- Logo Centralizada -->
   <div class="flex justify-center mt-6">
     <a href="https://ibb.co/j9vGGxj4">
-      <img src="https://i.ibb.co/j9vGGxj4/file-00000000543461f78e1bacee51ce7350.png" alt="Logo JC RP" class="w-48 h-auto">
+      <img src="https://i.ibb.co/j9vGGxj4/file-00000000543461f78e1bacee51ce7350.png" alt="Logo JC RP" class="w-32 h-auto">
     </a>
   </div>
 
